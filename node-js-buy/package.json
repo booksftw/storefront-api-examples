@@ -6,7 +6,8 @@
   "license": "MIT",
   "author": "Shopify Inc.",
   "dependencies": {
-    "body-parser": "^1.17.1"
+    "body-parser": "^1.17.1",
+    "yarn": "^1.9.2"
   },
   "devDependencies": {
     "babel": "~6.5.2",
